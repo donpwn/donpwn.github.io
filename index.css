@@ -1,48 +1,39 @@
 body {
-  background-image: url("img/Rick and Morty Space Background.png");
-  background-attachment: fixed;
+	  background-image: url("img/Rick and Morty Space Background.png");
+	  background-attachment: fixed;
 }
 header {
-  color: white;
-  background-color: rgba(0, 0, 0, 0.6); /* The 0.6 sets background-color opacity. */
+	color: white;
+	background-color: rgba(0, 0, 0, 0.6); /* The 0.6 sets background-color opacity. */
+	text-align: center;
+	font-size: 20px;
+	border-radius: 25px;
+}
+nav {
+  font-size: 16px;
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 0;
   text-align: center;
-  font-size: 20px;
-  border-radius: 25px; /* This creates the rounded corners */
+	border-radius: 25px;}
+	ul {
+	    list-style-type: none;
+	    text-align: center;
+	    border-radius: 25px;
+	}
+	li {
+	  display: inline;
+	padding: 8%;
+	border-radius: 25px;
+	}
+	li a {
+	    font-family: sans-serif;
+	    font-weight: bold;
+	    color: #b9d44d;
+	    text-decoration: none;}
 }
-ul {
-    list-style-type: none;
-    background-color: rgba(0, 0, 0, 0.6);
-    text-align: center;
-    border-radius: 25px;
-}
-li {
-  display: inline;
-padding: 8%;
-border-radius: 25px;
-}
-li a {
-    font-family: sans-serif;
-    font-weight: bold;
-    color: #b9d44d;
-    text-decoration: none;
-}
-#list {
-  color: white;
-}
-/* Change the link color on hover */
 li a:hover {
     background-color: #00b0c8 ;
     color: white;
-}
-p {
-	margin-top: 0;
-  display: block;
-  text-align: center;
-}
-h2{
-	font-size: 20px;
-	float: left;
-	margin-left: 200px;
 }
 section {
 	background-color: rgba(185, 212, 77, 0.6);
@@ -51,12 +42,22 @@ section {
 	margin: 0;
 	padding: 0;
 }
+p {
+	margin-top: 0;
+  display: block;
+  text-align: center;
+}
+h1{
+	color: #00B0C8;
+}
+
+h2{
+font-size: 20px;
+float: left;
+margin-left: 240px;
+}
 img {
-  margin-left: 100px;
+  margin-left: 130px;
   border: 3px solid black;
   border-radius: 30px;
 }
-footer {
-	color: white;
-}
-.header {color: #00b0c8;}

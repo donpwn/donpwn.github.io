@@ -27,9 +27,6 @@ li a {
     color: #b9d44d;
     text-decoration: none;
 }
-#list {
-  color: white;
-}
 /* Change the link color on hover */
 li a:hover {
     background-color: #00b0c8 ;
@@ -39,13 +36,21 @@ section {
   background-color: rgba(185, 212, 77, 0.6);
   color: white;
   border-radius: 25px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    margin-left:10%;
+    margin-right: 10%;
 }
 
 img {
-    display: block;
+    display: flex;
     margin: auto;
     width: 20%;
     border-radius: 15px;
+    border: 3px solid black;
     align-content: space-around;
 }
-.header {color: #00b0c8;}
+.header {color: #00b0c8;
+font-weight: bold;
+}
