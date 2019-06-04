@@ -1,3 +1,7 @@
 .topicheader {
     font-size: 11;
 }
+
+a:link{
+    text-decoration: none;
+}
