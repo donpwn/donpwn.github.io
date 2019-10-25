@@ -29,7 +29,7 @@
       >1. Item
       
 - Images      
-   > \![Alt Text](URL to image)
+   > \!\[Alt Text]\(URL to image)
    
    > Example: \!\[Win]\(../img/fitness.jpg)
    > ![Win](../img/fitness.jpg)
@@ -37,7 +37,7 @@
 - Links
    > It is automatic when using https://codefellows.org
    
-   > Or \[Code Fellows](codefellows.org) [Code Fellows](codefellows.org)
+   > Or \[Code Fellows](codefellows.org) for [Code Fellows](codefellows.org)
    
 - Blockquotes
    > \>To be or not to be..
