@@ -1,6 +1,6 @@
-## Markdown on GitHub
+## Markdown
 
-- Just like this page, it is written using the markdown, a fast way to style text on a page using the ***.md*** or ***markdown extension***.
+- Just like this page, it is written using the markdown, a fast way to style text on a page using the ***markdown extension***.
 
 - Headers or titles:
    - # \#Large
