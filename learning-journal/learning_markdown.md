@@ -35,9 +35,9 @@
    > ![Win](../img/fitness.jpg)
    
 - Links
-   > It is automatic when using https://codefellows.org
+   > It is automatic when using https://www.codefellows.org
    
-   > Or \[Code Fellows](codefellows.org) for [Code Fellows](codefellows.org)
+   > Or \[Code Fellows](https://www.codefellows.org) for [Code Fellows](https://www.codefellows.org)
    
 - Blockquotes
    > \>To be or not to be..
