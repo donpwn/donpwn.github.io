@@ -25,11 +25,11 @@
 ### Initial Customization
 
 - `git config` tool that set the configuration of git
-    - ```git config --global user.name "Your name"
-     git config --global user.email "Your email"```
-     - `git config --global core.editor editor`
-     - `git config --list` to check settings
-     - `git help command` to view manual
+    - `git config --global user.name "Your name"`
+    - `git config --global user.email "Your email"`
+    - `git config --global core.editor editor`
+    - `git config --list` to check settings
+    - `git help command` to view manual
 
 ### Setting up a Git Repository
 
