@@ -37,7 +37,7 @@
 
 1. `cd` to target project`s directory
 2. `git init`
-3. `git ass *.c`
+3. `git add *.c`
 4. `git add LICENSE`
 5. `git commit -m "insert message"`
 
