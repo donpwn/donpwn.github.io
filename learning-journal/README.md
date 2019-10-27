@@ -21,3 +21,4 @@ To keep myself in a growth mindset, I will remind myself
 
 1. [Markdown](/learning_markdown.md)
 2. [Commandline Cheatsheet](/cheatsheet.md)
+3. [Git](/git-github.md)
