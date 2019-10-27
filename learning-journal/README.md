@@ -16,3 +16,8 @@ To keep myself in a growth mindset, I will remind myself
 - That I am not perfect and can always improve.
 - To view obstacles as an opportunity to learn.
 - I need to grow with the team.
+
+# Table of Content
+
+1. [Markdown](/learning_markdown.md)
+2. [Commandline Cheatsheet](/cheatsheet.md)
