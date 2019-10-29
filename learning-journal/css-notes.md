@@ -7,7 +7,6 @@ For foreground color:
 ```
 h1 {
   color: DarkCyan;}
-
 h2 {
   color: #ee3e80;}
 ```
@@ -18,6 +17,7 @@ body {
 h1 {
     background-color: DarkCyan;}
 ```
+
 Color picker can be used to get information at http://colorschemedesigner.com
 
 Saturation is the amount of gray in the color. Brightness how much black is in the color.
