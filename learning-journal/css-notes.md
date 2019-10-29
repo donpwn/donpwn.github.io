@@ -23,12 +23,12 @@ Color picker can be used to get information at http://colorschemedesigner.com
 Saturation is the amount of gray in the color. Brightness how much black is in the color.
 When picking a color, it is important to ensure that there is enough contrast for the text to be legible. Text is easier to read in high contrast, but only ideal for short span of words. For long spans of text, medium contrast can improve readability.
 
- ## Opacity
- 
+## Opacity
+
  CSS3 allows you to specify opacity of an element and its child elements ranging from 0.0 to 1.0.
  CSS3 rgba allows you to specify the color and adds a fourth value to indicate opacity known as alpha value.
 
- ## Alternate
+## Alternate
 
  HSL and HSLA are an alternate way to specify colors. hsl followed by the values inside parentheses for:
     - Hue which is expressed as an anlge from 0 to 360 degrees
